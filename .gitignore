@@ -14,6 +14,7 @@ npm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+git remote -v
 
 # Tailwind + PostCSS cache (optional but good)
 .cache/
@@ -32,3 +33,4 @@ coverage/
 # Local MongoDB data (if stored)
 data/
 *.pem
+git remote -v
