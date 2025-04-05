@@ -1,1 +1,34 @@
 .qodo
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment files
+.env
+.env.* 
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tailwind + PostCSS cache (optional but good)
+.cache/
+dist/
+
+# Build files (for Vite)
+build/
+.vite/
+
+# VSCode settings (optional)
+.vscode/
+
+# Coverage (for testing)
+coverage/
+
+# Local MongoDB data (if stored)
+data/
+*.pem
